@@ -1,0 +1,32 @@
+html{
+  height: 100%;
+  background-image: url('https://images.pexels.com/photos/911758/pexels-photo-911758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: cover;
+}
+
+#banner{
+  padding-top: 22%;
+  font-family: 'Titan One', cursive;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  color: #9370DB;
+}
+
+#heading{
+  height: 100%;
+  font-family: 'Monsterrat', sans-serif;
+  display: flex;
+  justify-content: space-around;
+  color:#0066CC
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%; /* Full width */
+}
